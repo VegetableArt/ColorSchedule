@@ -1,0 +1,23 @@
+
+body {
+  margin:0px;
+  font-family: 'Arial';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  white-space: nowrap im !important;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.tui-full-calendar-vlayout-area,  .tui-view-9, .tui-view-35, .tui-full-calendar-vlayout-container{
+  height:100% !important;
+}
+
+.tui-full-calendar-popup-detail .tui-full-calendar-popup-container{
+
+  width: 180px !important;
+  min-width: 180px !important;
+}
